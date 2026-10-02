@@ -1,0 +1,29 @@
+# Keil generated files
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.lst
+*.axf
+*.hex
+*.bin
+*.map
+
+# Keil folders
+Objects/
+Listings/
+
+# IDE temporary files
+.vscode/
+*.log
+*.lock
+# Keil user settings
+*.uvguix.*
+*.uvguix.*
+
+# Keil report files
+*.htm
+
+# Keil temporary
+*.bak
